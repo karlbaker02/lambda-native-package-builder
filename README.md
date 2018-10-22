@@ -5,7 +5,9 @@ Automates building python packages [specifically C based] for AWS - lambda in na
 # Lambda Package Builder :
   
   *** build specifically for python 3.6 Lambda Functions
+
   *** doesnt add Lambda function code
+  
   *** only for python packages
 
 # Requirements :
